@@ -13,6 +13,8 @@ public class MainActivity extends AppCompatActivity {
         String As ="dfj";
          String q ="d";
         String w ="w";
-		String dx ="sdfj";
+		 String w ="w";
+
+
     }
 }
